@@ -11,7 +11,7 @@ MSc Thesis '18
 ## Programming Languages
 
 Jack Pettersson, Robert Edström  
-[Safer smart contracts through type-driven development](http://publications.lib.chalmers.se/records/fulltext/234939/234939.pdf)  
+[Safer smart contracts through type-driven development](https://hdl.handle.net/20.500.12380/234939)  
 Msc Thesis '16  
 
 Qiutai Pan, Xenofon Koutsoukos  
