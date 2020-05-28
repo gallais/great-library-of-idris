@@ -1,6 +1,11 @@
 # great-library-of-idris
 A crowd-sourced list of papers using Idris
 
+## Concurrency & Distributed Systems
+
+Simon Fowler  
+[Verified Networking using Dependent Types](http://simonjf.com/writing/bsc-dissertation.pdf)  
+BSc Thesis '14
 
 ## Interactive Editing
 
