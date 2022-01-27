@@ -7,6 +7,12 @@ Simon Fowler\
 [Verified Networking using Dependent Types](http://simonjf.com/writing/bsc-dissertation.pdf)\
 BSc Thesis '14
 
+## Effects
+
+Nicolas Biri\
+[Dependent tagless final](https://dl.acm.org/doi/10.1145/3498886.3502201)\
+PEPM 2022
+
 ## Interactive Editing
 
 Joomy Korkut\
